@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revanth2509
-- 👀 I’m interested in data machine learning engineer
+- 👀 I’m interested in machine learning engineer
 - 🌱 I’m currently learning ...deep learning
 - 💞️ I’m looking to collaborate on ...any company
 - 📫 How to reach me ...revanthvc25@gmail.com
